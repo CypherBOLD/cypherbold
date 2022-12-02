@@ -8,7 +8,6 @@ site_description: >-
 # Repository
 repo_name: CypherBOLD
 repo_url: https://github.com/cypherbold/cypherbold
-# edit_uri: blob/main/docs/
 
 # Copyright
 copyright: Copyright &copy; 2022 -  Pablo B. Boldrini
@@ -21,7 +20,7 @@ theme:
     # - announce.dismiss
     - content.code.annotate
     - content.tabs.link
-    - content.tooltips
+    # - content.tooltips
     # - header.autohide
     - navigation.expand
     - navigation.indexes
